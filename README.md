@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi there, I'm Louay Mohammed! 👋
 
-<!--
-**Samplezz/samplezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Esports Enthusiast | 📊 Robotics Student | 🖥️ Tech & Gaming Geek
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm Louay Mohammed, a passionate Esports Community Manager and a Computer Science student specializing in  Robotics. My journey in gaming and technology has led me to explore content creation, social media management, and data-driven decision-making in Esports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 About Me
+
+🎮 Esports Specialist – Managing content & social media for top esports teams like Pegasus Esports, Vision Esports, and Twisted Minds.
+
+📊 Data Science Major – Studying Computer Science with a focus on Robotics at Helwan National University.
+
+🏆 Tournament Organizer – Hosted and managed several esports competitions.
+
+🎥 Content & Social Media Manager – Boosted engagement and views for esports teams, contributing to Twisted Minds winning the Best Club Award at Gamers8.
+
+🕹️ Game Development & Coding Enthusiast – Always exploring new tech, programming, and game dev trends.
+
+🚀 Skills & Technologies
+
+Languages: Python, SQL, JavaScript
+
+Tools: Visual Studio, Git, Excel, Power BI
+
+Esports Management: Social Media Strategy, Content Creation, Analytics, Event Organization
+
+Other Interests: AI, Data Visualization, Machine Learning
+
+SOON i will make huge updates here!
+2025/5/2
