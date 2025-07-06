@@ -16,6 +16,6 @@ Welcome to my GitHub! I'm Louay Mohammed, a passionate Esports Community Manager
 - **Tools:** Visual Studio, Git, Excel, Power BI
 - **Esports Management:** Social Media Strategy, Content Creation, Analytics, Event Organization
 - **Other Interests:** AI, Data Visualization, Machine Learning
-
+![Profile views](https://komarev.com/ghpvc/?username=Samplezz&color=blue)
 
 2025/5/2
